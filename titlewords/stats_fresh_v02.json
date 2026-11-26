@@ -1,0 +1,124 @@
+{
+  "dict_version": "0.2.1",
+  "mode": "fresh",
+  "sample_n": 300,
+  "items_with_any_tag_pct": 93.7,
+  "axis_coverage_pct": {
+    "act_pose": 27.0,
+    "character": 6.3,
+    "character_feature": 55.0,
+    "composition": 12.3,
+    "costume": 54.0,
+    "fetish": 19.0,
+    "style_method": 81.0,
+    "work": 18.3
+  },
+  "axis_hold_items": {
+    "character": 2,
+    "work": 2
+  },
+  "excluded_matches": 8,
+  "top_unclassified_in_sample": [
+    [
+      "To",
+      6
+    ],
+    [
+      "BA",
+      6
+    ],
+    [
+      "ゲーム",
+      5
+    ],
+    [
+      "AI美女ポスター",
+      4
+    ],
+    [
+      "ポロリ",
+      3
+    ],
+    [
+      "ailoveu.jp",
+      3
+    ],
+    [
+      "オンライン",
+      3
+    ],
+    [
+      "卑猥",
+      3
+    ],
+    [
+      "B1",
+      3
+    ],
+    [
+      "縦1030mm×横730mm",
+      3
+    ],
+    [
+      "キャラクター",
+      3
+    ],
+    [
+      "デザイン",
+      3
+    ],
+    [
+      "ダブルスエード",
+      3
+    ],
+    [
+      "A4ポスターセクシー美女",
+      3
+    ],
+    [
+      "匿名",
+      3
+    ],
+    [
+      "微エロ",
+      2
+    ],
+    [
+      "store",
+      2
+    ],
+    [
+      "illust",
+      2
+    ],
+    [
+      "あいす",
+      2
+    ],
+    [
+      "高品質A4ポスター",
+      2
+    ],
+    [
+      "澄江",
+      2
+    ],
+    [
+      "エルフ",
+      2
+    ],
+    [
+      "オッパイ",
+      2
+    ],
+    [
+      "a4",
+      2
+    ],
+    [
+      "女体の神秘",
+      2
+    ]
+  ],
+  "data_range": "self-collected auctions.db 2026-11-04..2026-11-26 (latest period, price-band stratified, seed 20261128)"
+}

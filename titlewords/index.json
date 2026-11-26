@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "publication_status": "draft",
+  "published_at": null,
+  "generated_at": "2026-11-27T07:39:25+09:00",
+  "dict_version": "0.2.1",
+  "files": [
+    {
+      "name": "dictionary_v0.2.1.json",
+      "rows": null,
+      "sha256": "324749866c928502f8d6adc9ec4a99a12789452dccf2f01ecb2c6afe590d25b3"
+    },
+    {
+      "name": "sample500_v02.csv",
+      "rows": 500,
+      "sha256": "b3a10b5c47831abc810aa08049ebb999bc68d2204d3cebca28153d05ad8341ad"
+    },
+    {
+      "name": "sample_fresh300_v02.csv",
+      "rows": 300,
+      "sha256": "b3b454cf9fece758d8bb191404ab94ac557e1e617dbbca4a192b743a114ee75c"
+    },
+    {
+      "name": "stats_regression_v02.json",
+      "rows": null,
+      "sha256": "2b1ea0112d9bc2a482b0883bba8b611aa36f3900b8c83aa6bed5bf7e47463d68"
+    },
+    {
+      "name": "stats_fresh_v02.json",
+      "rows": null,
+      "sha256": "e4e0783d05645b17f4509836a950736c9ca81b5f64292f9be1afb1227b9d1937"
+    },
+    {
+      "name": "REVIEW_v02.md",
+      "rows": null,
+      "sha256": "bd30b872c4da4cb2b5b57d0d8b514138fe41e789838d08d44596888093dd9577"
+    },
+    {
+      "name": "DATASET.md",
+      "rows": null,
+      "sha256": "bef917187d5133be370f61d3fc52e2de46818c31b9c4ce589d47da1a9ac9ff10"
+    }
+  ]
+}

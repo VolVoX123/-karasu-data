@@ -1,0 +1,124 @@
+{
+  "dict_version": "0.2.1",
+  "mode": "regression",
+  "sample_n": 500,
+  "items_with_any_tag_pct": 95.8,
+  "axis_coverage_pct": {
+    "act_pose": 25.8,
+    "character": 5.0,
+    "character_feature": 61.8,
+    "composition": 9.2,
+    "costume": 56.2,
+    "fetish": 24.2,
+    "style_method": 84.8,
+    "work": 10.8
+  },
+  "axis_hold_items": {
+    "work": 7,
+    "character": 2
+  },
+  "excluded_matches": 12,
+  "top_unclassified_in_sample": [
+    [
+      "アダルトAIポスター",
+      12
+    ],
+    [
+      "L版高画質",
+      7
+    ],
+    [
+      "縁有り",
+      5
+    ],
+    [
+      "A4高画質",
+      5
+    ],
+    [
+      "高精細ポスター",
+      5
+    ],
+    [
+      "ガバマン",
+      4
+    ],
+    [
+      "美女A4ポスター",
+      4
+    ],
+    [
+      "ホテル編",
+      3
+    ],
+    [
+      "タイト",
+      3
+    ],
+    [
+      "あおい",
+      3
+    ],
+    [
+      "リアル志向",
+      3
+    ],
+    [
+      "#HON",
+      3
+    ],
+    [
+      "橘ありす",
+      3
+    ],
+    [
+      "ディルド",
+      3
+    ],
+    [
+      "To",
+      3
+    ],
+    [
+      "黄前久美子",
+      3
+    ],
+    [
+      "popstar",
+      3
+    ],
+    [
+      "ウエディング",
+      3
+    ],
+    [
+      "《1点物》",
+      3
+    ],
+    [
+      "Conan",
+      2
+    ],
+    [
+      "宮本由美",
+      2
+    ],
+    [
+      "Yumi",
+      2
+    ],
+    [
+      "Miyamoto",
+      2
+    ],
+    [
+      "A4高品質ポスター",
+      2
+    ],
+    [
+      "体操服",
+      2
+    ]
+  ],
+  "data_range": "seed karasu.db 2026-05-04..2026-11-05 (same 500 as v0.1 regression)"
+}
