@@ -1,0 +1,4 @@
+snapshot_id,observed_at,category_id,rank,badge_rank,auction_id,seller_id,seller_name,title,start_price,current_price,buy_now_price,bids,watchers,watchers_checked_at,featured_price_raw,fp_status,fp_checked_at,start_time,end_time,fetch_status
+20261126-1135,2026-11-26T11:35:00+09:00,2084009286,1,1,n1252338173,,ゆり,,198,198,3980,0,,,2167,candidate,2026-11-26T12:36:00+09:00,,2026-11-27T00:25:03+09:00,partial
+20261126-1135,2026-11-26T11:35:00+09:00,2084009286,2,2,k1253667621,,けんぜんART,,498,498,1980,0,,,2146,candidate,2026-11-26T12:36:00+09:00,,2026-11-26T22:03:52+09:00,partial
+20261126-1135,2026-11-26T11:35:00+09:00,2084009286,3,3,t1253569949,,琥珀,,350,430,1500,6,,,2146,candidate,2026-11-26T12:36:00+09:00,,2026-11-26T23:25:37+09:00,partial

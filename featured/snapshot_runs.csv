@@ -1,0 +1,3 @@
+snapshot_id,scheduled_at,executed_at,category_id,pages_planned,pages_fetched,items_observed,items_identified,seller_identified_count,status,note
+20261126-1135,2026-11-26T11:35:00+09:00,2026-11-26T11:35:00+09:00,2084009286,1,1,50,3,0,partial,初回手動観測。注目度TOP3のauction_idのみ特定 (seller_idは未取得)、4位以下はタイトル・現在価格のみ保持
+20261127-0719,2026-11-27T07:19:00+09:00,2026-11-27T07:23:50+09:00,2084009286,2,2,100,100,100,success,
