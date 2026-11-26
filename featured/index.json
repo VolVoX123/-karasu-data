@@ -1,20 +1,20 @@
 {
   "schema_version": 1,
   "publication_status": "published",
-  "generated_at": "2026-11-27T07:25:56+09:00",
-  "published_at": "2026-11-27T07:26:46+09:00",
-  "last_snapshot_at": "2026-11-27T07:23:50+09:00",
-  "last_result_check_at": "",
+  "generated_at": "2026-11-27T07:30:00+09:00",
+  "published_at": "2026-11-27T07:30:03+09:00",
+  "last_snapshot_at": "2026-11-27T07:22:00+09:00",
+  "last_result_check_at": "2026-11-27T07:05:00+09:00",
   "files": [
     {
       "name": "item_results.csv",
       "rows": 103,
-      "sha256": "685c94c240c24973cc6ad2944d3c48fce1408d3890215368d36afe5baa4bdf9e"
+      "sha256": "714c7f928665c8d01fe67835f708149e66b2afa126e08c1606b92e10f73f8900"
     },
     {
       "name": "snapshot_runs.csv",
       "rows": 2,
-      "sha256": "9ab01bff169febfe281af33e293e5fa0516ac98de9dc8a9f86d0e9a0a20ab829"
+      "sha256": "9ee048e78d8ab2889ae76797fd112975b98abf2e1f285c17bf466af4dad7a66b"
     },
     {
       "name": "snapshots/2026-11-26.csv",
@@ -24,7 +24,7 @@
     {
       "name": "snapshots/2026-11-27.csv",
       "rows": 100,
-      "sha256": "7e3415216cf43eba53024330e4f88ed19b47f8b1103890101728153f4b57a035"
+      "sha256": "f55fe395c411c93de0809e62a34e7fb9cc79c5ca2be57e9374ca10f26fdd401b"
     }
   ]
 }
