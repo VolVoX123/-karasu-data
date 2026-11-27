@@ -2,3 +2,4 @@ snapshot_id,scheduled_at,executed_at,category_id,pages_planned,pages_fetched,ite
 20261126-1135,2026-11-26T11:35:00+09:00,2026-11-26T11:35:00+09:00,2084009286,1,1,50,3,0,partial,初回手動観測。注目度TOP3のauction_idのみ特定 (seller_idは未取得)、4位以下はタイトル・現在価格のみ保持
 20261127-0719,2026-11-27T07:19:00+09:00,2026-11-27T07:23:50+09:00,2084009286,2,2,100,100,100,success,correction 2026-11-27: observed_at fixed to list-extraction completion 07:22 (list extracted 07:19-07:22; initial value 07:23:50 was resolver start). Per-item fetch times are in fp_checked_at/watchers_checked_at.
 20261127-1300,2026-11-27T13:00:00+09:00,2026-11-27T13:12:41+09:00,2084009286,2,2,100,100,100,success,
+20261127-2100,2026-11-27T21:00:00+09:00,2026-11-27T21:07:19+09:00,2084009286,2,2,100,100,100,success,
